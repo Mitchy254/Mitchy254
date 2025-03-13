@@ -2,7 +2,7 @@
 ### 👋Hi, I'm Mitch! 
 
 👨‍🎓Studied Python for Data Science at the University of Luxembourg</br>
-🎨Studied Graphics Design at St. John's College, Kikuyu</br>
+🎨Studied Graphics Design at St. John's College, Kawangware</br>
 🌱I am currently learning [Networking Devices and Initial Configuration](https://skillsforall.com/course/networking-devices-and-initial-configuration?courseLang=en-US)</br>
 ✍Changing the dev world one code at a time</br>
 
